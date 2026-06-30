@@ -14,11 +14,10 @@
 </div>
 <div>
     <h4>ارتباط با من</h4>
-    <a href="mailto:elenamogharrabi@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-<a href="tel:09012407585">
-<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" />
-</a>
-</div>
+    <p>📧 ایمیل:elenamogharrabi@gmail.com</p>
 
+<p>🐙 گیت‌هاب: https://github.com/USERNAME</p>
+<p>
+📱 موبایل:09012407585</p>
+
+</div>
