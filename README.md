@@ -8,7 +8,7 @@
   <p>مهارت هایی که از انها استفاده میکنم</p>
   <div>
     <img
-      src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,vite,vscode"
+      src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,vite,vscode"align="center"
     />
   </div>
 </div>
